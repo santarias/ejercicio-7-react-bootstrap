@@ -52,7 +52,7 @@ function App() {
         </ul>
       </Col>
       <Col md={4} as="aside" className="lado d-flex flex-row justify-content-center align-items-center">
-        <Col className="console container overflow-auto">Resultado funciones aqui</Col>
+        <Col className="console container overflow-auto">Resultado funciones aqui 🐈</Col>
       </Col>
     </Container>
   );
